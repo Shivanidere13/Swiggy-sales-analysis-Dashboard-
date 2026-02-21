@@ -57,6 +57,7 @@ ________________________________________
 6️⃣ Operational Stability
 •	No major drops in weekly or daily trends indicate consistent platform activity.
 📌 Insight: Strong operational management and steady customer engagement.
+
 ## Final Conclusion
 The Swiggy Sales Dashboard analysis reveals that revenue growth is primarily driven by high order frequency, strong metro city demand, and dominance of the non-veg food category.
 Consistently high customer ratings support repeat usage and business stability. While performance remains steady across months and weeks, targeted marketing during lower-performing periods and expansion in high-demand regions can further enhance growth.
