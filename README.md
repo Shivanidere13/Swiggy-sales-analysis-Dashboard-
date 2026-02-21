@@ -5,7 +5,7 @@ An interactive Excel dashboard analyzing Swiggy’s sales performance, order tre
 To analyze Swiggy’s sales data and develop an interactive dashboard that tracks key KPIs, identifies sales trends, evaluates customer ratings, and provides data-driven business recommendations.
 
 ## Dataset Used
-< a href=https://github.com/Shivanidere13/Swiggy-sales-analysis-Dashboard-/blob/main/swiggy%20dataset%20and%20interactive%20dashboard.xlsx>Dataset</a>
+<a href="https://github.com/Shivanidere13/Swiggy-sales-analysis-Dashboard-/blob/main/swiggy%20dataset%20and%20interactive%20dashboard.xlsx">Dataset</a>
 
 ## Question(KPIs)
 -What is the total revenue generated?
@@ -17,7 +17,7 @@ To analyze Swiggy’s sales data and develop an interactive dashboard that track
 -Which cities drive the highest revenue?
 -What are the monthly, weekly, and daily sales trends?
 -Which quarter performs best?
--Dashboard Interactions < a href=https://github.com/Shivanidere13/Swiggy-sales-analysis-Dashboard-/blob/main/swiggy%20dataset%20and%20interactive%20dashboard.xlsx>View Dahboard</a>
+-Dashboard Interactions < a href="https://github.com/Shivanidere13/Swiggy-sales-analysis-Dashboard-/blob/main/swiggy%20dataset%20and%20interactive%20dashboard.xlsx">View Dahboard</a>
 
 ## Process
 - Imported and cleaned raw Swiggy dataset.
